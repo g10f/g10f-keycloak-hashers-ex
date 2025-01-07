@@ -1,1 +1,1 @@
-# Keycloak PBKDF2 Password Hash provider with HMAC using SHA1
+# Keycloak SSHA Password Hash provider for using LDAP SSHA Passwords
